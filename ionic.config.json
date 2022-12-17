@@ -1,0 +1,8 @@
+{
+  "name": "Weather Guru",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7af641e6"
+}
